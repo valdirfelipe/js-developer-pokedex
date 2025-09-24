@@ -4,19 +4,19 @@
 }
 
 body {
-    background-color: #f6f8fc;
+    background-color: #5981d3;
 }
 
 .content {
     width: 100vw;
     height: 100vh;
     padding: 1rem;
-    background-color: #fff;
+    background-color: #5a0606;
 }
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 990px) {
     .content {
-        max-width: 992px;
+        max-width: 990px;
         height: auto;
         margin: 1rem auto;
         border-radius: 1rem;
